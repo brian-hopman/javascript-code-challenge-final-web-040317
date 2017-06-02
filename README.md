@@ -4,7 +4,7 @@
 
 + Constructors / Prototypes or ES6 Classes
 + Callbacks
-+ DOM Manipulation
++ DOM Manipulation 
 + Events and Event Handlers
 
 ## Instructions
