@@ -1,3 +1,11 @@
 $(document).ready(function(){
-  // your code here!
+  inputUrlListener()
 })
+
+
+function inputUrlListener() {
+  $('#photo-form').on('submit', function(e){
+    e.preventDefault()
+    debugger
+  })
+}
